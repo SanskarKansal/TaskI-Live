@@ -52,12 +52,15 @@ src/
 
 ### Prerequisites
 
-- Node.js and npm installed
+- npm installed
 
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/TaskHive.git
+git clone https://github.com/SanskarKansal/TaskHive.git
 cd TaskHive
 npm install
 npm run dev
+
+👨‍💻 Author
+Sanskar Kansal
